@@ -24,6 +24,6 @@
 export interface SircleBase {
 
     id: string;
-    id?: string;
     name?: string;
+    sircleId?: string;
 }

@@ -39,10 +39,10 @@ import { Room } from '../../domain/test_db/room';
 		capacity: {
 			type: 'Integer'
 		},
-		id: {
+		name: {
 			type: 'String'
 		},
-		name: {
+		roomId: {
 			type: 'String'
 		},
 		//RELATIONS

@@ -36,10 +36,10 @@ import { Sircle } from '../../domain/test_db/sircle';
  * SCHEMA DB Sircle
  *
 	{
-		id: {
+		name: {
 			type: 'String'
 		},
-		name: {
+		sircleId: {
 			type: 'String'
 		},
 		//RELATIONS
