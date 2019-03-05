@@ -36,6 +36,9 @@ import { Sircle } from '../../domain/test_db/sircle';
  * SCHEMA DB Sircle
  *
 	{
+		id: {
+			type: 'String'
+		},
 		name: {
 			type: 'String'
 		},

@@ -26,6 +26,7 @@ export interface RoomBase {
 
     id: string;
     capacity?: number;
+    id?: string;
     name?: string;
     // Relations sircles
     sircles: Sircle | string;

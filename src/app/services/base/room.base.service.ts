@@ -39,6 +39,9 @@ import { Room } from '../../domain/test_db/room';
 		capacity: {
 			type: 'Integer'
 		},
+		id: {
+			type: 'String'
+		},
 		name: {
 			type: 'String'
 		},
